@@ -1,4 +1,4 @@
-Specification:
+### Specification:
 
 Design and implement a program, readability, that computes the Coleman-Liau index of the text.
 
